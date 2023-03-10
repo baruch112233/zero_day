@@ -1,1 +1,1 @@
-This is my *first* readme.md file created for the **zero_day** repository.
+This is my *first* readme file created for the **zero_day** repository.
